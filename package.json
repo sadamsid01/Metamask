@@ -1,0 +1,20 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/onboarding": "^1.0.1",
+    "ethers": "^5.5.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2",
+    "parcel-bundler": "^1.12.5"
+  },
+  "description": ""
+}
